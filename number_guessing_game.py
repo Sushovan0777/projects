@@ -28,4 +28,4 @@ def main():
     else:
         print("Thank you for playing.")
 if __name__ == '__main__':
-    main() 
+    main()
